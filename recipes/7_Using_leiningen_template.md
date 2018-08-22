@@ -10,7 +10,7 @@ by Eunmin Kim
 
 ### 1. 프로젝트 생성하기
 
-`lein new 템플릿 프로젝트명`으로 프로젝트를 생성하면 됩니다.
+`lein new 템플릿 프로젝트명`으로 프로젝트를 생성하면 됩니다. 아래는 `compojure`라는 템플릿으로 프로젝트를 만드는 예제입니다.
 
 ```bash
 $ lein new compojure hello-world
