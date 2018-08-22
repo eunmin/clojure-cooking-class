@@ -8,6 +8,7 @@
 * [Leiningen 프로젝트 만들기](recipes/2_Creating_leiningen_project.md)
 * [Clojure 안녕 세상!](recipes/3_Hello_world.md)
 * [Leiningen 프로젝트 엔트리 포인트 지정하기](recipes/4_Specify_leiningen_main.md)
+* [Leiningen 프로젝트를 실행 할 수 있는 jar로 패키징 하기](recipes/5_Create_leiningen_jar.md)
 
 ## 레시피를 보내주세요
 
