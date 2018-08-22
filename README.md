@@ -5,6 +5,7 @@
 ## 레시피
 
 * [macOS에 Leiningen 설치하기](1_Leiningen_macOS.md)
+* [Leiningen 프로젝트 만들기](2_Creating_leiningen_project.md)
 
 ## 레시피를 보내주세요
 
