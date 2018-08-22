@@ -8,4 +8,4 @@
 
 ## 레시피를 보내주세요
 
-[0_Template.md 템플릿 파일](0.Template)을 보고 레시피를 만들어 보내주세요.
+[0_Template.md](0_Template.md)을 보고 레시피를 만들어 보내주세요.
