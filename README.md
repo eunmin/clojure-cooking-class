@@ -4,10 +4,10 @@
 
 ## 레시피
 
-* [macOS에 Leiningen 설치하기](1_Leiningen_macOS.md)
-* [Leiningen 프로젝트 만들기](2_Creating_leiningen_project.md)
-* [Clojure 안녕 세상!](3_Hello_world.md)
-* [Leiningen 프로젝트 엔트리 포인트 지정하기](4_Specify_leiningen_main.md)
+* [macOS에 Leiningen 설치하기](recipes/1_Leiningen_macOS.md)
+* [Leiningen 프로젝트 만들기](recipes/2_Creating_leiningen_project.md)
+* [Clojure 안녕 세상!](recipes/3_Hello_world.md)
+* [Leiningen 프로젝트 엔트리 포인트 지정하기](recipes/4_Specify_leiningen_main.md)
 
 ## 레시피를 보내주세요
 
