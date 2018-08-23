@@ -19,6 +19,9 @@
 ### 웹
 * [Compojure 템플릿으로 간단한 웹 프로젝트 만들기](recipes/9_Compojure_creating_project.md)
 
+### 로깅
+* [로그 남기기](recipes/10_Logging.md)
+
 ## 레시피를 보내주세요
 
 [0_Template.md](0_Template.md)을 보고 레시피를 만들어 보내주세요.
