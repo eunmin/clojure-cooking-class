@@ -1,23 +1,21 @@
-# Compojure 템플릿으로 간단한 웹 프로젝트 만들기
+# 제목
 
-by Eunmin Kim
+by 작성자
 
 ## 이럴 때 쓰세요
 
-간단한 웹 서버를 만들어보려고 합니다.
+언제 사용하는 레시피인지 작성해주세요.
 
 ## 어떻게 하나요?
 
-### 1. Compojure leiningen 템플릿으로 프로젝트 만들기
+### 1. 첫번째 단계
 
-아래 명령어로 `compojure` 템플릿을 이용해 `hello`라는 프로젝트를 만듭니다.
+내용
 
-```
-lein new compojure hello
-```
+### 2. 두번째 단계
 
-### 2. 서버 실행하기
+내용
 
-```
-lein ring server
-```
+## 이런 것도 보세요
+
+* [Clojure](http://clojure.org)
