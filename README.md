@@ -22,6 +22,9 @@
 ### 로깅
 * [로그 남기기](recipes/10_Logging.md)
 
+### GraphQL
+* [Lacinia 라이브러리로 GraphQL 쿼리 처리하기](recipes/11_Lacinia.md)
+
 ## 레시피를 보내주세요
 
 [0_Template.md](0_Template.md)을 보고 레시피를 만들어 보내주세요.
