@@ -78,4 +78,4 @@ GraphQL HTTP 서버를 만들고 싶습니다.
 
 ## 이런 것도 보세요
 
-예제 코드는 [여기](examples/12_Lacinia_http)에 있습니다.
+예제 코드는 [여기](https://github.com/eunmin/clojure-cooking-class/tree/master/examples/12_Lacinia_http/graphqlapp)에 있습니다.
