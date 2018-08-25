@@ -24,6 +24,7 @@
 
 ### GraphQL
 * [Lacinia 라이브러리로 GraphQL 쿼리 처리하기](recipes/11_Lacinia.md)
+* [Lacinia 라이브러리를 이용한 GraphQL HTTP 서버 만들기](recipes/12_Lacinia_http.md)
 
 ## 레시피를 보내주세요
 
