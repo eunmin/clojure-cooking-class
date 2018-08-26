@@ -13,7 +13,7 @@
 * [Leiningen 템플릿으로 프로젝트 만들기](recipes/7_Using_leiningen_template.md)
 * [Leiningen REPL 사용하기](recipes/8_REPL.md)
 
-### 기본 문법
+### 문법
 * [Clojure 안녕 세상!](recipes/3_Hello_world.md)
 
 ### 웹
@@ -25,6 +25,7 @@
 ### GraphQL
 * [Lacinia 라이브러리로 GraphQL 쿼리 처리하기](recipes/11_Lacinia.md)
 * [Lacinia 라이브러리를 이용한 GraphQL HTTP 서버 만들기](recipes/12_Lacinia_http.md)
+* [GraphQL HTTP 서버에 Graphiql 적용하기](recipes/13_Graphiql.md)
 
 ## 레시피를 보내주세요
 
