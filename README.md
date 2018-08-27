@@ -27,6 +27,9 @@
 * [Lacinia 라이브러리를 이용한 GraphQL HTTP 서버 만들기](recipes/12_Lacinia_http.md)
 * [GraphQL HTTP 서버에 Graphiql 적용하기](recipes/13_Graphiql.md)
 
+### Queue
+* [RabbitMQ 구독하기](recipes/14_Subscribe_rabbitmq.md)
+
 ## 레시피를 보내주세요
 
 [0_Template.md](0_Template.md)을 보고 레시피를 만들어 보내주세요.
