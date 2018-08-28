@@ -30,6 +30,9 @@
 ### Queue
 * [RabbitMQ 구독하기](recipes/14_Subscribe_rabbitmq.md)
 
+### 데이터베이스
+* [MongoDB 사용하기](recipes/15_Using_mongodb.md)
+
 ## 레시피를 보내주세요
 
 [0_Template.md](0_Template.md)을 보고 레시피를 만들어 보내주세요.
