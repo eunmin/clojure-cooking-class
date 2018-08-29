@@ -21,6 +21,7 @@
 
 ### 로깅
 * [로그 남기기](recipes/10_Logging.md)
+* [JSON 형태로 로그 남기기](recipes/16_JSON_logging.md)
 
 ### GraphQL
 * [Lacinia 라이브러리로 GraphQL 쿼리 처리하기](recipes/11_Lacinia.md)
