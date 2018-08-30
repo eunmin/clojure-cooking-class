@@ -1,4 +1,4 @@
-# 임시로 Var을 다시 정의하기
+# 임시로 Var 다시 정의하기
 
 by Eunmin Kim
 
