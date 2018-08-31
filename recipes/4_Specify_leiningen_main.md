@@ -10,7 +10,7 @@ by Eunmin Kim
 
 ### 1. 프로젝트 설정
 
-`project.clj` 파일을 열어 `:main` 키에 `-main` 함수가 있는 네임스페이를 적어줍니다.
+`project.clj` 파일을 열어 `:main` 키에 `-main` 함수가 있는 네임스페이스를 적어줍니다.
 
 ```clojure
 (defproject hello "0.1.0-SNAPSHOT"
