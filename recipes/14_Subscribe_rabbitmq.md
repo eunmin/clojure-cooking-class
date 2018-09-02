@@ -42,7 +42,17 @@ Clojure RabbitMQ 라이브러리인 [Langohr](http://clojurerabbitmq.info/) 의�
   (ack channel delivery-tag)))
 ```
 
-### 4. 채널 닫기
+### 4. 구독하기
+
+앞에서 만든 메시지 헨들러를 이용해 큐를 구독합니다.
+
+```clojure
+(require '[langohr.consumers :as lc])
+
+(lc/subscribe channel "test-queue" message-handler {:auto-ack false})
+```
+
+### 5. 채널 닫기
 
 더 구독을 하지 않으려면 채널을 닫아 줍니다.
 
