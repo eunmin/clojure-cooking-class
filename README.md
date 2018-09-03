@@ -15,10 +15,11 @@
 
 ### 문법
 * [Clojure 안녕 세상!](recipes/3_Hello_world.md)
-* [임시로 Var 다시 정의하기](recipes/17_With_redefs.md)
+* [임시로 Var을 다시 정의하기](recipes/17_With_redefs.md)
 
 ### 웹
 * [Compojure 템플릿으로 간단한 웹 프로젝트 만들기](recipes/9_Compojure_creating_project.md)
+* [Duct 프레임워크로 웹 프로젝트 만들기](recipes/18_Duct_creating_project.md)
 
 ### 로깅
 * [로그 남기기](recipes/10_Logging.md)
