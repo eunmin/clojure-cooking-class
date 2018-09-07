@@ -36,6 +36,9 @@
 ### 데이터베이스
 * [MongoDB 사용하기](recipes/15_Using_mongodb.md)
 
+### 에디터
+* [Emacs에서 문법 하이라이팅](recipes/19_Emacs_syntax highlighting.md)
+
 ## 레시피를 보내주세요
 
 [0_Template.md](0_Template.md)을 보고 레시피를 만들어 보내주세요.
